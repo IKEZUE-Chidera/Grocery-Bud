@@ -14,10 +14,5 @@ In this project, we'll build a list management application that utilizes **local
      - It remains in the same position in the list.
      - The submit button's value changes to reflect that the user is editing an existing item rather than adding a new one.
      - The edited value replaces the original item in the list.
-
-### **Next Steps**:
-- Start coding the application to implement these features, focusing on managing the list items and their persistence in local storage.
-
----
-
+       
 This project emphasizes practical coding skills for managing dynamic content in web applications and effectively using local storage for user data retention.
